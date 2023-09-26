@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Saurav M",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -7,7 +8,6 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Saurav M",
 	"repository": {
 		"type": "git",
 		
